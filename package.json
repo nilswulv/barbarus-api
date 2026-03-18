@@ -1,0 +1,9 @@
+{
+  "name": "barbarus-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Minimal Vercel API for BARBARUS",
+  "engines": {
+    "node": ">=20"
+  }
+}
